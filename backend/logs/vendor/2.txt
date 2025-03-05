@@ -1,0 +1,70 @@
+Vendor 2 added tickets. Total tickets: 5
+Vendor 2 added tickets. Total tickets: 5
+Vendor 2 added tickets. Total tickets: 5
+Vendor 2 added tickets. Total tickets: 5
+Vendor 2 added tickets. Total tickets: 5
+Vendor 2 added tickets. Total tickets: 5
+Vendor 2 added tickets. Total tickets: 25
+Vendor 2 added tickets. Total tickets: 20
+Vendor 2 added tickets. Total tickets: 25
+Vendor 2 added tickets. Total tickets: 25
+Vendor 2 added tickets. Total tickets: 25
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 8
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 8
+Vendor 2 added tickets. Total tickets: 8
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 8
+Vendor 2 added tickets. Total tickets: 8
+Vendor 2 added tickets. Total tickets: 9
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 20
+Vendor 2 added tickets. Total tickets: 20
+Vendor 2 added tickets. Total tickets: 20
+Vendor 2 added tickets. Total tickets: 20
+Vendor 2 added tickets. Total tickets: 20
+Vendor 2 added tickets. Total tickets: 20
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 8
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 5
+Vendor 2 added tickets. Total tickets: 5
+Vendor 2 added tickets. Total tickets: 5
+Vendor 2 added tickets. Total tickets: 20
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 10
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 15
+Vendor 2 added tickets. Total tickets: 8
+Vendor 2 added tickets. Total tickets: 8
+10 tickets added to Vendor 2's ticket pool.
+10 tickets added to Vendor 2's ticket pool. 9 tickets added to Vendor 2's overflow pool.
+10 tickets added to Vendor 2's ticket pool. 10 tickets added to Vendor 2's overflow pool.
+10 tickets added to Vendor 2's ticket pool. 10 tickets added to Vendor 2's overflow pool.
+10 tickets added to Vendor 2's ticket pool. 9 tickets added to Vendor 2's overflow pool.
+8 tickets added to Vendor 2's ticket pool.
+8 tickets added to Vendor 2's ticket pool. 6 tickets added to Vendor 2's overflow pool.
+8 tickets added to Vendor 2's ticket pool. 8 tickets added to Vendor 2's overflow pool.
+8 tickets added to Vendor 2's ticket pool. 8 tickets added to Vendor 2's overflow pool.
